@@ -24,7 +24,7 @@
 --win_length: null
 
 # fit
---batch_size: 256
+--batch_size: 512
 --epochs: 100
 -lr: 0.001
 --shuffle: True
